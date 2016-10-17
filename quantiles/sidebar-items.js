@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CKMS","This is an implementation of the algorithm presented in Cormode, Korn, Muthukrishnan, Srivastava's paper \"Effective Computation of Biased Quantiles over Data Streams\". The ambition here is to approximate quantiles on a stream of data without having a boatload of information kept in memory."]]});
